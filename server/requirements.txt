@@ -1,0 +1,4 @@
+pymongo
+google-genai
+requests
+python-dotenv
